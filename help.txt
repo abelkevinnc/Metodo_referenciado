@@ -1,0 +1,2 @@
+https://www.oscarblancarteblog.com/2017/02/27/java-8-metodos-referenciados/
+https://www.arquitecturajava.com/el-concepto-de-java-8-reference-method/
